@@ -1,0 +1,6 @@
+{
+  "name": "Computer Galaxy - Hardware & Custom PC Store",
+  "description": "Computer Galaxy is a computer hardware wholesaler and retailer in Sirohi, Rajasthan. Custom gaming PCs, video editing workstations, computer components, laptops, and all-India delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
