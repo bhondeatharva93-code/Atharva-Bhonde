@@ -24,7 +24,7 @@ export const FeaturedPCBuilds: React.FC<FeaturedPCBuildsProps> = ({
         'Fast NVMe SSD storage',
       ],
       buttonText: 'EXPLORE GAMING PCs',
-      image: '/src/assets/images/pc_gaming_build_1793030233850.jpg',
+      image: '/images/pc_gaming_build_1793030233850.jpg',
       whatsAppMsg:
         'Hello Computer Galaxy, I would like to inquire about Gaming PC configurations and pricing options.',
       purposeValue: 'Gaming',
@@ -43,7 +43,7 @@ export const FeaturedPCBuilds: React.FC<FeaturedPCBuildsProps> = ({
         'Reliable workstation power delivery',
       ],
       buttonText: 'EXPLORE EDITING PCs',
-      image: '/src/assets/images/pc_editing_workstation_1793030234230.jpg',
+      image: '/images/pc_editing_workstation_1793030234230.jpg',
       whatsAppMsg:
         'Hello Computer Galaxy, I would like to inquire about Video Editing & Studio PC configurations.',
       purposeValue: 'Video Editing',
@@ -62,7 +62,7 @@ export const FeaturedPCBuilds: React.FC<FeaturedPCBuildsProps> = ({
         'Cost-effective wholesale & institutional options',
       ],
       buttonText: 'EXPLORE OFFICE PCs',
-      image: '/src/assets/images/pc_office_desktop_1793030234266.jpg',
+      image: '/images/pc_office_desktop_1793030234266.jpg',
       whatsAppMsg:
         'Hello Computer Galaxy, I would like to inquire about Office & Business PC solutions and pricing.',
       purposeValue: 'Office Work',

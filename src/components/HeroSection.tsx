@@ -117,7 +117,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
               <div className="absolute inset-0 bg-gradient-to-tr from-transparent via-blue-500/5 to-purple-500/10 pointer-events-none z-10" />
 
               <img
-                src="/src/assets/images/hero_galaxy_pc_rig_1793030232721.jpg"
+                src="/images/hero_galaxy_pc_rig_1793030232721.jpg"
                 alt="High-performance custom computer build showcase at Computer Galaxy"
                 className="w-full h-auto aspect-[16/10] sm:aspect-[4/3] lg:aspect-[4/3.4] object-cover transition-transform duration-700 group-hover:scale-102"
                 loading="eager"
